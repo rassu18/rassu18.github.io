@@ -10,7 +10,7 @@ function App() {
     <div className='fragment'>
       
       <SecondComponent />
-      <FirstComponent />
+      <h1>Hi This is a test</h1>
       
     </div> 
     
