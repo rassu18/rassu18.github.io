@@ -23,7 +23,7 @@ function SecondComponent() {
   const app = initializeApp(firebaseConfig);
   const analytics = getAnalytics(app);
 
-  const phoneNumber = getPhoneNumberFromUserInput();
+  //const phoneNumber = getPhoneNumberFromUserInput();
 
   const auth = getAuth();
   
